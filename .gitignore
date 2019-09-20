@@ -4,6 +4,7 @@
 /public/assets/lte
 /storage/*.key
 /vendor
+/SQLsrv
 .env
 .phpunit.result.cache
 Homestead.json
